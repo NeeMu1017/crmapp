@@ -1,0 +1,28 @@
+.st_green{
+    color: white;
+    background-color: rgba(0, 128, 0, 0.724) !important;
+    border-radius: 5%;
+}
+.st_red {
+    color: white;
+    background-color: rgba(255, 2, 2, 0.846) !important;
+    border-radius: 5%;
+}
+.st_blue{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.499)!important;
+    border-radius: 5%;
+}
+.search-box {
+    width: 250px;
+    border: none;
+    outline: none;
+}
+
+.search-box-wrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightblue;
+    border-radius: 6px;
+    padding: 6px 12px;
+}

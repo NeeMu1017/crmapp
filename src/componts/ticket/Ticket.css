@@ -1,0 +1,32 @@
+.search-box-wrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightblue;
+    border-radius: 6px;
+    padding: 6px 12px;
+    height: 35px;
+}
+
+.st_new {
+    background-color: rgba(0, 0, 255, 0.499) !important;
+    color: #fff !important;
+    border-radius: 5%;
+}
+
+.st_assigned {
+    background-color: rgba(0, 128, 0, 0.724) !important;
+    color: white !important;
+    border-radius: 5%;
+}
+
+.st_inprogress {
+    background-color: rgba(255, 2, 2, 0.846) !important;
+    border-radius: 5%;
+    color: white !important;
+}
+
+.st_resolved {
+    background-color: rgba(148, 0, 211, 0.872) !important;
+    border-radius: 5%;
+    color: white !important;
+}

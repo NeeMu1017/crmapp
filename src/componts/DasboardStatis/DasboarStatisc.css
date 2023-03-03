@@ -1,0 +1,43 @@
+.tile{
+    height: 140px;
+    border: solid 1px lightblue;
+    padding: auto;
+   border-radius: 3px;
+}
+.dasboard{
+height: 150px;
+margin-left: 100px;
+padding: 24px;
+margin-bottom: 20px;
+}
+.tile-all{
+ background-color: black;
+ color: white;
+}
+.tile-accepted{
+    background-color: rgba(0, 128, 0, 0.724);
+    color: white;
+}
+.tile-new{
+    background-color: rgba(0, 0, 255, 0.499);
+    color: white;
+}
+.tile-rejected {
+    background-color:rgba(255, 2, 2, 0.846);
+    color: white;
+    
+}
+
+.tile-text {
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.tile-number {
+    font-size: 30px;
+    font-weight: bolder;
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+}
